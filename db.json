@@ -1,0 +1,17 @@
+{
+  "users": [
+  {
+    "email": "adam@hotmail.nl",
+    "name": "adam hasanin",
+    "password": "wachtwoord",
+    "id": "1"
+  },
+  {
+    "email": "test@hotmail.nl",
+    "name": "testuser",
+    "password": "wachtwoord",
+    "id": "2"
+  },
+  
+  ]
+}
