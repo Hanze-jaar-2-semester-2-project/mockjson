@@ -1,5 +1,5 @@
 {
-  "users": [
+  "users":
   {
     "email": "adam@hotmail.nl",
     "name": "adam hasanin",
@@ -11,7 +11,5 @@
     "name": "testuser",
     "password": "wachtwoord",
     "id": "2"
-  },
-  
-  ]
+  },  
 }
