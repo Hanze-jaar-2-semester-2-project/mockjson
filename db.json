@@ -1,16 +1,22 @@
 {
-  "users": [
-  {
-    "email": "adam@hotmail.nl",
-    "name": "adam hasanin",
-    "password": "wachtwoord",
-    "id": "1"
+  "employees": [
+    {
+      "id": 1,
+      "name": "Adam",
+      "email": "Adam@hotmail.com",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "name": "test",
+      "email": "test@hotmail.com",
+      "password": "password"
+    },
+    {
+      "id": 3,
+      "name": "Admin",
+      "email": "Admin@hotmail.com",
+      "password": "password"
     }
-  ],
-  {
-    "email": "test@hotmail.nl",
-    "name": "testuser",
-    "password": "wachtwoord",
-    "id": "2"
-  },  
+  ]
 }
